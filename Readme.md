@@ -1,5 +1,3 @@
-Aquí tienes una versión mejorada del archivo README:
-
 # Intelligent Systems - Diabetes Prediction Project
 
 ## Overview
